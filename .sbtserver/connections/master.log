@@ -1,0 +1,7 @@
+New log file opened at Wed Jan 13 15:03:01 PST 2016 by 96363@JohnnyLs-MacBook-Pro.local
+Taking next connection to: 55502
+New client attempting to connect on port: 55503-55502
+  Address = /10.0.24.103:55502
+This client on port 55503 has uuid e18b95bc-76d9-4873-86e4-99330ba2bd5b configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-e18b95bc-76d9-4873-86e4-99330ba2bd5b
+Taking next connection to: 55502
