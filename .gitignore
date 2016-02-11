@@ -1,6 +1,10 @@
 /RUNNING_PID
 /logs/
-/project/*-shim.sbt
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 /project/project/
 /project/target/
 /target/
+.idea/libraries/
+metastore_db/
+*log
